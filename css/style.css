@@ -1,0 +1,61 @@
+
+        .navbar{
+            margin-right: 40px;
+            margin-left:20px;
+        }
+        
+        h3{
+            align-content: center;
+            padding-left: 40px;
+            font-size: 20px;
+            
+        }
+        h1{
+            font-family: "SohoGothicW01-BoldItali",verdana,tahoma,arial,sans-serif;
+            font-style:italic;
+        }
+        .thumbnail {
+            border: 0 none;
+            box-shadow: none;
+       }
+    
+       footer{
+           font-size:0.8em;
+           text-align: center;
+           background-color:lightblue;
+       }
+       footer p{
+           padding-top:10px;
+       }
+       
+       
+       .vertical-align {
+        text-align: justify;
+        text-justify: inter-word;
+        justify-content:center;
+        display: flex; 
+        height:80px
+        } 
+        
+        .carousel-inner > .item > img {
+        margin: 0 auto;
+        }
+        
+        .container-table {
+        display: table;
+        }
+        
+        .vertical-center-row {
+            display: table-cell;
+            vertical-align: middle;
+        }
+        
+        .center-block {
+            margin-left:auto;
+            margin-right:auto;
+            display:block;
+         }
+         p{
+             color: #7a7a7a;
+             font-size:large;
+         }
